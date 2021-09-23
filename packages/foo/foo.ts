@@ -1,0 +1,1 @@
+import { EXPORTED } from 'bar'
